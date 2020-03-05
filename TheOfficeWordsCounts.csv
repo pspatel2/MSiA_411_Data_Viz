@@ -1,4 +1,4 @@
-,text_lemmatized
+word,count
 know,4545
 michael,2869
 well,2753
@@ -305,7 +305,7 @@ working,186
 bring,186
 bye,185
 gabe,184
-true,184
+TRUE,184
 food,183
 sit,183
 awesome,182
@@ -2575,7 +2575,7 @@ update,14
 tattoo,14
 damage,14
 request,14
-false,14
+FALSE,14
 propose,14
 sack,14
 keyboard,14
@@ -5874,7 +5874,7 @@ strongest,4
 redacted,4
 crank,4
 joker,4
-05,4
+5,4
 bunny,4
 grossed,4
 decisionmaking,4
@@ -6720,7 +6720,7 @@ assembled,3
 drone,3
 gordon,3
 vigorously,3
-019,3
+19,3
 permanently,3
 conflicted,3
 swinging,3
@@ -9012,7 +9012,7 @@ vibrator,2
 yonkers,2
 primal,2
 nemo,2
-07,2
+7,2
 za,2
 jb,2
 grilling,2
@@ -12093,7 +12093,7 @@ incorrectly,1
 candid,1
 disclosed,1
 mcblack,1
-050,1
+50,1
 unframe,1
 catwalk,1
 entity,1
@@ -12179,7 +12179,7 @@ theuh,1
 heyhey,1
 soleil,1
 huhhhhh,1
-0175,1
+175,1
 reappearance,1
 yeno,1
 sherman,1
@@ -13215,7 +13215,7 @@ minirefrigerator,1
 illustrator,1
 honorary,1
 fermenting,1
-00983126,1
+983126,1
 knowles,1
 advil,1
 baglooks,1
@@ -15871,7 +15871,7 @@ marque,1
 tgiwednesday,1
 givin,1
 ayes,1
-98500000000001700,1
+9.85E+16,1
 foreleg,1
 jimbag,1
 obsolete,1
@@ -16286,7 +16286,7 @@ hesitantly,1
 rudderless,1
 atlas,1
 uhyeaahhh,1
-00,1
+0,1
 tinkle,1
 alergic,1
 highprofile,1
