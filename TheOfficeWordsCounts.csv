@@ -1,4 +1,4 @@
-,text_lemmatized
+word,count
 know,4545
 michael,2869
 well,2753
@@ -314,7 +314,7 @@ working,186
 bring,186
 bye,185
 gabe,184
-true,184
+TRUE,184
 food,183
 sit,183
 couple,182
@@ -2641,7 +2641,7 @@ panic,14
 embrace,14
 danger,14
 disagree,14
-false,14
+FALSE,14
 formal,14
 bow,14
 built,14
@@ -5988,7 +5988,7 @@ income,4
 cardigan,4
 grace,4
 alaska,4
-05,4
+5,4
 streak,4
 viable,4
 elaborate,4
@@ -7786,7 +7786,7 @@ sloppy,3
 submit,3
 meaningless,3
 welfare,3
-019,3
+19,3
 willpower,3
 nile,3
 chillin,3
@@ -9495,7 +9495,7 @@ degrading,2
 grinding,2
 pooch,2
 lumber,2
-07,2
+7,2
 ribbon,2
 borscht,2
 dakota,2
@@ -11360,7 +11360,7 @@ greatgreat,1
 sherman,1
 yeno,1
 longoria,1
-0175,1
+175,1
 huhhhhh,1
 carrington,1
 fieldtrip,1
@@ -12352,7 +12352,7 @@ indigenous,1
 reshooting,1
 sunroof,1
 abusing,1
-050,1
+50,1
 unwrapping,1
 krispie,1
 adventurous,1
@@ -14134,7 +14134,7 @@ illiterate,1
 jessicacmon,1
 applauded,1
 illustrator,1
-00983126,1
+983126,1
 fantastico,1
 honorary,1
 vapor,1
@@ -15475,7 +15475,7 @@ eludes,1
 givin,1
 ayes,1
 christina,1
-98500000000001700,1
+9.85E+16,1
 tallied,1
 quad,1
 uhyeaahhh,1
@@ -16313,7 +16313,7 @@ cleat,1
 atlas,1
 aeroplane,1
 wat,1
-00,1
+0,1
 sposed,1
 wrangler,1
 emphatically,1
